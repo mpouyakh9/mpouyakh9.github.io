@@ -22,11 +22,11 @@ repository               : "mpouyakh9.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pouya Khorsandi"
+  name             : "Pouya M. Khorsandi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in HCI"
   location         : "Kingston"
-  employer         : "Red Brick University"
+  employer         : "Queen's University"
   uri              : # URL
   email            : "p.khorsandi@queensu.ca" 
 
@@ -43,19 +43,19 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mpouyakh9"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  Instagram        : "mpouyakh"# Username 
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -292,7 +292,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 # add this line to the plugins list if you already have one
 # Plugins
 plugins:
