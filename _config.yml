@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pouya M. Khorsandi"
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Pouya M. Khorsandi"
 description              : &description "PhD Student at iStudio, Queen's University"
